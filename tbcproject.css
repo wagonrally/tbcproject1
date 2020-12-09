@@ -1,0 +1,58 @@
+body {
+  font-family: "Open Sans", sans-serif; 
+  background-color: gray;
+}
+
+H1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+H5 {
+  color: white;
+}
+
+header {
+  color:red;
+  font-size: xx-large;
+  font-style: italic;
+} 
+
+.site-footer {
+  background-image: linear-gradient(black, red, black);
+  padding: 10px;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 10px;
+  background-image: linear-gradient(black, gray, white,gray,  black);
+}
+
+.row-content {
+padding: 50px 0;
+border-bottom: 1px ridge;
+min-height: 200px; 
+}
+
+.navbar {
+background-color:red; 
+}
+
+.carousel {
+border: solid white; 
+}
+
+.carousel-caption {
+background-color: rgba(0, 0, 0, 0.5); 
+}
+
+#carouselButton {
+position: absolute;
+right: 0;
+bottom: 0;
+z-index: 100; 
+}
+
+.tbcheader {
+  width: 100%;
+  height: auto ;
+}
